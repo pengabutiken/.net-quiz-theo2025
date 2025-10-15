@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\.net-quiz-theo2025.props" />
+</Project>
