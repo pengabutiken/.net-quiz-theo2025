@@ -28,3 +28,4 @@ C:\Users\theon\Documents\GitHub\.net-quiz-theo2025\obj\Debug\net8.0\refint\.net-
 C:\Users\theon\Documents\GitHub\.net-quiz-theo2025\obj\Debug\net8.0\.net-quiz-theo2025.pdb
 C:\Users\theon\Documents\GitHub\.net-quiz-theo2025\obj\Debug\net8.0\.net-quiz-theo2025.genruntimeconfig.cache
 C:\Users\theon\Documents\GitHub\.net-quiz-theo2025\obj\Debug\net8.0\ref\.net-quiz-theo2025.dll
+C:\Users\theon\Documents\GitHub\.net-quiz-theo2025\obj\Debug\net8.0\.net-quiz-theo2025.sourcelink.json
