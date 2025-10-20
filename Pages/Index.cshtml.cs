@@ -7,10 +7,11 @@ namespace _net_quiz_theo2025.Pages;
 public class IndexModel : PageModel
 {
 
-
+    public List<_net_quiz_theo2025>
 
     public void OnGet()
     {
+
 
     }
 }
