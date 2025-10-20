@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\theon\\Documents\\GitHub\\.net-quiz-theo2025\\wwwroot\\images\\nosferatu.jpg",
+      "PackagePath": "staticwebassets\\images\\nosferatu.jpg"
+    },
+    {
       "Id": "C:\\Users\\theon\\Documents\\GitHub\\.net-quiz-theo2025\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

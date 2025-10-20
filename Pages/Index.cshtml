@@ -1,12 +1,21 @@
 ﻿@page
-@model IndexModel
-@{
-    ViewData["Title"] = "Home page";
-}
+@model _net_quiz_theo2025.Pages.IndexModel
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about lsssTHEPolddss<a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET
-            Core</a>.
-    </p>
-</div>
+<h1>🎬 Gissa filmen!</h1>
+
+<form method="post">
+    @for (int i = 0; i < Model.Questions.Count; i++)
+    {
+        <div style="margin-bottom: 30px;">
+            <img src="@Model.Questions[i].ImageUrl" alt="Filmfråga" width="400" style="border-radius:10px;" />
+            <br /><br />
+
+            @for (int j = 0; j < Model.Questions[i].Options.Count; j++)
+            {
+                <input type="radio" name="q@i" value="@j" /> @Model.Questions[i].Options[j] <br />
+            }
+        </div>
+    }
+
+    <button type="submit">Skicka</button>
+</form>

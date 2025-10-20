@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute(".net-quiz-theo2025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2baa92381ab5455306a1fa643a82cdbc62a185a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54fba7f6dc4421d4e7221b06b88a438cf4cab5a5")]
 [assembly: System.Reflection.AssemblyProductAttribute(".net-quiz-theo2025")]
 [assembly: System.Reflection.AssemblyTitleAttribute(".net-quiz-theo2025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

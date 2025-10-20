@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3j0su5CZV0p90B5Iz7jnaWF2e7/518LyD6v9QyWfwC8=",
+  "Hash": "cUfl9PZ4MXmUGGeWxAJrPjeVWdQ6UgUuf2W4CwzhttI=",
   "Source": ".net-quiz-theo2025",
   "BasePath": "_content/.net-quiz-theo2025",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\theon\\Documents\\GitHub\\.net-quiz-theo2025\\wwwroot\\images\\nosferatu.jpg",
+      "SourceId": ".net-quiz-theo2025",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\theon\\Documents\\GitHub\\.net-quiz-theo2025\\wwwroot\\",
+      "BasePath": "_content/.net-quiz-theo2025",
+      "RelativePath": "images/nosferatu.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\nosferatu.jpg"
     },
     {
       "Identity": "C:\\Users\\theon\\Documents\\GitHub\\.net-quiz-theo2025\\wwwroot\\js\\site.js",
